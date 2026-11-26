@@ -1,0 +1,6 @@
+{
+  "name": "Knot & Loom — Ribbed Merino Beanies",
+  "description": "Mobile-first direct-to-consumer landing page for Knot & Loom heavyweight ribbed knit beanies with live color swatches, cart drawer, and WhatsApp checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
